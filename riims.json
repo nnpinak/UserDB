@@ -43,8 +43,8 @@
     },
     {
         "device_id": "device002",
-        "username": "US0002",
-        "password": "pass@002",
+        "username": "US0067",
+        "password": "pass@us0067",
         "expirydate": "15-12-2025",
         "Allowoffline": false
     },
@@ -52,7 +52,7 @@
         "device_id": "0f59847336976d00",
         "username": "US0034",
         "password": "pass@us0034",
-        "expirydate": "15-12-2025",
+        "expirydate": "01-08-2025",
         "Allowoffline": false
     }
 ]
